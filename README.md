@@ -1,1 +1,1 @@
-# VAE---MAP573
+# MAP573_Project
